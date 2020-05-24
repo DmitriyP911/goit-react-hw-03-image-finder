@@ -1,0 +1,15 @@
+.nav {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    background-color: #3938ab;
+}
+
+.input {
+    width: 25%;
+    outline: none;
+    border: 1px solid #3938ab;
+    padding: 5px 0;
+    font-size: 16px;
+    border-radius: 4px;
+}

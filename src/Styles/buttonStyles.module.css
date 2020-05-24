@@ -1,0 +1,10 @@
+.btnWrap {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.btn {
+    cursor: pointer;
+    outline: none;
+}
